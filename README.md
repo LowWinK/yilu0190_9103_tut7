@@ -11,3 +11,9 @@ This is my first local change to repo!
 ###### Header 6
 
 ![An image of Cloud](Cloud/cloud.png)
+
+```
+function helloWorld() {
+console.log("Hello, world!");
+}
+```
