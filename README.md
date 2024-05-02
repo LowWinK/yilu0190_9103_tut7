@@ -6,12 +6,12 @@
 
 ## Part 2: Coding Technique Exploration
 I think maybe I can use `mask()` and `blendMode()` in p5.js, or mix-blend-mod in CSS to achieve and contribute to my desired effect.
-I can use the `mask()` to mask part of the scene image in a shape.
+1. I can use the `mask()` to mask part of the scene image in a shape.
 ![An image of `mask()`](assets/mask.png)
-[Link Text](https://p5js.org/reference/#/p5.Image/mask)
-And then use the `blendMode()` to mix those 2 image up, make them become more harmonious.
+[Click here go to the p5.js reference](https://p5js.org/reference/#/p5.Image/mask)
+2. And then use the `blendMode()` to mix those 2 image up, make them become more harmonious.
 ![An image of `blendMode()`](assets/blendmode.png)
-[Link Text](https://p5js.org/reference/#/p5/blendMode)
-Or I can achieve all the effect with CSS.
+[Click here go to the p5.js reference](https://p5js.org/reference/#/p5/blendMode)
+3. Or I can achieve all the effect with CSS.
 ![An image of blend mode with CSS](assets/cssblendmode.png)
-[Link Text](https://www.youtube.com/watch?v=0h58wIZ_-4Q)
+[The video from Youtube](https://www.youtube.com/watch?v=0h58wIZ_-4Q)
