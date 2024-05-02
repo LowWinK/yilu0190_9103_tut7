@@ -14,4 +14,4 @@ I think maybe I can use `mask()` and `blendMode()` in p5.js, or mix-blend-mod in
 [Click here go to the p5.js reference](https://p5js.org/reference/#/p5/blendMode)
 3. Or I can achieve all the effect with CSS.
 ![An image of blend mode with CSS](assets/cssblendmode.png)
-[The video from Youtube](https://www.youtube.com/watch?v=0h58wIZ_-4Q)
+[Click here go to the video from Youtube](https://www.youtube.com/watch?v=0h58wIZ_-4Q)
